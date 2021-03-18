@@ -1,0 +1,1 @@
+AccBal.checkTxInputListCanBeDeducted(txiL2)
